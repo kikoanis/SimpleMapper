@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMapper", "SimpleMapper\SimpleMapper.csproj", "{0D1BAB24-CA77-4042-82F2-283942CA2C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMapperTest", "SimpleMapperTest\SimpleMapperTest.csproj", "{0171D29A-5955-4A65-8AA5-A63E81CE57E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C33D8364-2FB1-4B23-957D-CA84B32D84AB}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		SimpleMapper1.vsmdi = SimpleMapper1.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ali-pc:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SimpleMapper\\SimpleMapper.csproj
+		SccProjectName1 = SimpleMapper
+		SccLocalPath1 = SimpleMapper
+		SccProjectUniqueName2 = SimpleMapperTest\\SimpleMapperTest.csproj
+		SccProjectName2 = SimpleMapperTest
+		SccLocalPath2 = SimpleMapperTest
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = SimpleMapper1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1BAB24-CA77-4042-82F2-283942CA2C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1BAB24-CA77-4042-82F2-283942CA2C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1BAB24-CA77-4042-82F2-283942CA2C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1BAB24-CA77-4042-82F2-283942CA2C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0171D29A-5955-4A65-8AA5-A63E81CE57E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0171D29A-5955-4A65-8AA5-A63E81CE57E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0171D29A-5955-4A65-8AA5-A63E81CE57E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0171D29A-5955-4A65-8AA5-A63E81CE57E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
